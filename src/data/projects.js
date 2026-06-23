@@ -1,13 +1,13 @@
 export const projects = [
   {
-    id: 'wavelab',
+    id: 'vectorwaves',
     tags: ['Simulation', 'Framework'],
-    title: 'WaveLab',
+    title: 'VectorWaves',
     summary: 'A high-performance Python framework for plane-wave superposition in vacuum. Built around a flexible configuration system, it provides tools for generating, analyzing, and visualizing electromagnetic wavefields ranging from simple interference patterns to complex singular optical structures.',
     body: [
       {
         type: 'text',
-        content:'WaveLab provides a framework for constructing and analyzing electromagnetic wavefields through plane-wave superpositions. A flexible configuration system allows a wide range of beams, from structured-light modes to vector speckles, to be generated with only a few lines of code.'
+        content:'VectorWaves provides a framework for constructing and analyzing electromagnetic wavefields through plane-wave superpositions. A flexible configuration system allows a wide range of beams, from structured-light modes to vector speckles, to be generated with only a few lines of code.'
       },
       {
         type: 'text',
@@ -37,7 +37,7 @@ export const projects = [
         content: 'For a more comprehensive introduction, detailed examples, and tutorials demonstrating the full capabilities of the framework, see the project documentation.'
       },
     ],
-    link: 'https://1rayokelvin.github.io/WaveLab/',
+    link: 'https://1rayokelvin.github.io/VectorWaves/',
     linkLabel: 'View Documentation'
   },
   {
